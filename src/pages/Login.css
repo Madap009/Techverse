@@ -1,0 +1,63 @@
+/* Add these styles to your existing CSS or create a new CSS file */
+
+.homebanner {
+    background-color: #f0f0f0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .log {
+    width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bgss {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .login-container {
+    text-align: center;
+  }
+  
+  .forms {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .form-label {
+    display: block;
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .btns {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .fs-2 {
+    font-size: 1.5rem;
+  }
+  
+  /* Add more styles as needed */
+  
